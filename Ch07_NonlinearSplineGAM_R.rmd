@@ -129,8 +129,7 @@ data(College,package = "ISLR2")
 
 Your code:
 ```{r,echo=TRUE}
-#
-#
+College_train <- 
 ```
 
 Your answer:
